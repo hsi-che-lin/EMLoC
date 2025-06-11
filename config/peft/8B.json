@@ -1,0 +1,7 @@
+{
+    "name": "lora",
+    "config": {
+        "r": 8,
+        "target_modules": "language_model.model.layers.*w([o123]|qkv)"
+    }
+}

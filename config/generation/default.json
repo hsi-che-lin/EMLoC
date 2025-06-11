@@ -1,0 +1,4 @@
+{
+    "max_new_tokens": 500,
+    "do_sample": false
+}

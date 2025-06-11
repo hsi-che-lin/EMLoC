@@ -1,0 +1,4 @@
+{
+    "vision_model.*layers.*": 0.4,
+    "language_model.*layers(?!.*31.feed_forward.w2)(.+)": 0.4
+}

@@ -1,0 +1,9 @@
+{
+    "WorldCuisines-train": {
+        "root": "/path/to/data/root",
+        "annotation": "/path/to/annotation.jsonl",
+        "data_augment": false,
+        "repeat_time": 1,
+        "length": 200000
+    }
+}
