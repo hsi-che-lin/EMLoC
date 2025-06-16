@@ -128,4 +128,5 @@ If you find EMLoC useful or relevant to your research, please cite our paper:
   author={Hsi-Che Lin and Yu-Chu Yu and Kai-Po Chang and Yu-Chiang Frank Wang},
   journal={arXiv preprint arXiv:2506.12015},
   year={2025}
+}
 ```
