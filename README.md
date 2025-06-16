@@ -1,7 +1,7 @@
 <div align="center">
 <h1>EMLoC: Emulator-based Memory-efficient Fine-tuning <br> with LoRA Correction</h1>
 
-[**🏠Project Page**]() | [**🐙Github**]() | [**📖Paper**]()
+[**🏠Project Page**](https://hsi-che-lin.github.io/EMLoC/) | [**🐙Github**](https://github.com/hsi-che-lin/EMLoC/tree/main) | [**📖Paper**](https://arxiv.org/abs/2506.12015)
 
 EMLoC is a framework that enables fine-tuning within the same memory budget required for inference.<br>
 In our paper, we demonstrate the ability to fine-tune a 38B model on a single 24GB GPU without quantization.
@@ -123,9 +123,9 @@ python inference.py
 ## Citation
 If you find EMLoC useful or relevant to your research, please cite our paper:
 ```
-@article{,
-  title={},
-  author={},
-  journal={},
-  year={}
+@article{lin2025emloc,
+  title={EMLoC: Emulator-based Memory-efficient Fine-tuning with LoRA Correction},
+  author={Hsi-Che Lin and Yu-Chu Yu and Kai-Po Chang and Yu-Chiang Frank Wang},
+  journal={arXiv preprint arXiv:2506.12015},
+  year={2025}
 ```
